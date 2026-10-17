@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>My First Webpage</title>
-</head>
-<body>
-    <h1>Hello, GitHub!</h1>
-    <p>This is my very first project hosted on the cloud.</p>
-</body>
-</html>
+# Sample Data Script
+data = [10, 20, 30, 40, 50]
+print("Sample Data:", data)
